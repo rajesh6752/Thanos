@@ -1,4 +1,5 @@
-"# thanos" 
+"# thanos"
+#Modified 
 It is a simple spring boot application and all the configs are stored in src/main/resources/application.propteries
 
 Default Server Port : 9554 
